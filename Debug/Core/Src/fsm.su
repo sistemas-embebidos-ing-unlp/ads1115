@@ -1,0 +1,16 @@
+../Core/Src/fsm.c:17:6:fsm_init	24	static
+../Core/Src/fsm.c:24:6:fsm_switch	24	static
+../Core/Src/fsm.c:115:6:fun_e1_c1	32	static
+../Core/Src/fsm.c:252:6:fun_e1_c2	16	static
+../Core/Src/fsm.c:258:6:fun_e1_c3	72	static
+../Core/Src/fsm.c:285:6:fun_e2_c1	24	static
+../Core/Src/fsm.c:324:6:fun_e2_c2	24	static
+../Core/Src/fsm.c:357:6:fun_e2_c3	24	static
+../Core/Src/fsm.c:377:6:fun_e2_c4	24	static
+../Core/Src/fsm.c:415:6:fun_e2_c5	24	static
+../Core/Src/fsm.c:435:6:fun_e2_c6	24	static
+../Core/Src/fsm.c:454:6:fun_e2_c7	24	static
+../Core/Src/fsm.c:471:6:fun_e2_c8	24	static
+../Core/Src/fsm.c:498:6:imprimir_cad	24	static
+../Core/Src/fsm.c:501:6:recibir_char	24	static
+../Core/Src/fsm.c:510:6:char_to_evento	16	static
